@@ -101,6 +101,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 * [django-ormcache](https://github.com/educreations/django-ormcache/) - A cache manager mixin that provides some caching of objects for the ORM.
 * [johnny-cache](https://github.com/jmoiron/johnny-cache/) - Johnny Cache is a caching framework for django applications.
+* [django-cachalot](https://github.com/BertrandBordage/django-cachalot) - Johnny Cache's successor for Django 1.6 and 1.7.
 * [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 * [django-cache-machine](https://github.com/jbalogh/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
 
